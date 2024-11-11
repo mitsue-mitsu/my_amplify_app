@@ -3,11 +3,11 @@
 ### AWS cli Login
 
 ```
-aws sso login --profile koke-moss-amplify
+aws sso login --profile amplify-mac
 ```
 
 ### Deploy cloud sandbox
 
 ```
-npx ampx sandbox --profile koke-moss-amplify
+npx ampx sandbox --profile amplify-mac
 ```
